@@ -116,7 +116,7 @@ List (список) - это последовательный контейнер
 make test
 ```
 ## Покрытие
-Для покрытия требутеся lcov && gcov\
+Для покрытия требутеся lcov && gcov
 - sudo apt install lcov
 ```
 make gcov_report
